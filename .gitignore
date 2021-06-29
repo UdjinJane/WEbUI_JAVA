@@ -1,0 +1,15 @@
+
+WEbUI_JAVA.iml
+target/test-classes/ru/ablogic/Vector2DTest.class
+WEbUI_JAVA.iml
+target/test-classes/ru/ablogic/NetworkUtilsTest.class
+target/test-classes/ru/ablogic/MyMathTest.class
+target/classes/ru/ablogic/Vector2D.class
+target/classes/ru/ablogic/NetworkUtils.class
+target/classes/ru/ablogic/MyMath.class
+.idea/vcs.xml
+.idea/misc.xml
+.idea/jarRepositories.xml
+.idea/encodings.xml
+.idea/dbnavigator.xml
+.idea/compiler.xml

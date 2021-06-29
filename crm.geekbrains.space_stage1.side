@@ -1,0 +1,28 @@
+{
+  "id": "09344f3b-f3c9-4596-a413-6c60167b91ae",
+  "version": "2.0",
+  "name": "crm.geekbrains.space_stage1",
+  "url": "",
+  "tests": [{
+    "id": "a482aeab-fdeb-4e26-838a-9d03f73acf4e",
+    "name": "Login",
+    "commands": [{
+      "id": "e4f08979-3f3c-4875-8335-930af31e192e",
+      "comment": "",
+      "command": "assert",
+      "target": "crm.geekbrains.space",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "3b3703b9-3e24-4120-b8ff-65a0719db5e9",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["a482aeab-fdeb-4e26-838a-9d03f73acf4e"]
+  }],
+  "urls": [],
+  "plugins": []
+}
