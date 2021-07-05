@@ -15,3 +15,9 @@ target/classes/ru/ablogic/MyMath.class
 .idea/compiler.xml
 target/classes/HW_03/MaineTest.class
 .idea/uiDesigner.xml
+target/test-classes/HW_04/MyTriangleCalcTest.class
+target/test-classes/HW_04/MyTriangleCalcTest$GetPositiveInit.class
+target/test-classes/HW_04/MyTriangleCalcTest$GetPositiveInit$CalcArea.class
+target/test-classes/HW_04/MyTriangleCalcTest$GetNeagativeArg.class
+target/classes/HW_04/MyTriangleCalc.class
+testFile.log
