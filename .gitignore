@@ -21,3 +21,7 @@ target/test-classes/HW_04/MyTriangleCalcTest$GetPositiveInit$CalcArea.class
 target/test-classes/HW_04/MyTriangleCalcTest$GetNeagativeArg.class
 target/classes/HW_04/MyTriangleCalc.class
 testFile.log
+target/test-classes/HW_05/Hw5_Test_01$myLoginTests$addValueTest.class
+target/test-classes/HW_05/Hw5_Test_01$myLoginTests.class
+target/test-classes/HW_05/Hw5_Test_01.class
+target/test-classes/logback.xml
